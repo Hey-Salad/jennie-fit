@@ -63,6 +63,21 @@ This repository currently serves as a roadmap and project planning space.
 - ElevenLabs voice synthesis
 - Custom ball collection algorithms
 
+## Research & References 📚
+
+- [NVIDIA Vid2Player3D Research](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) - Advanced tennis motion simulation research
+
+- [Tennis Skills Supplementary Materials](https://research.nvidia.com/labs/toronto-ai/vid2player3d/data/tennis_skills_supp.pdf) - Detailed analysis of tennis motion datasets
+
+- [AI at Australian Open](https://www.techradar.com/computing/artificial-intelligence/ai-is-helping-the-australian-open-cover-tennis-in-the-funniest-way-possible-by-turning-it-into-nintendo-wii-tennis) - AI-driven broadcasts at the Australian Open
+
+- [IBM Watson at US Open](https://digiday.com/media/how-ibm-and-the-us-open-are-using-watson-create-more-ai-generated-tennis-content/) - AI-generated tennis content using IBM Watson
+
+- [Tennis Motion Analysis Research](https://terra-docs.s3.us-east-2.amazonaws.com/IJHSR/Articles/volume5-issue3/IJHSR_2023_53_p81.pdf) - Academic research on tennis motion analysis
+
+- [AI Tennis Ball Robots](https://www.seeedstudio.com/blog/2023/05/31/upgrade-your-tennis-experience-with-cutting-edge-ai-enabled-ball-retrieving-robots/) - Implementation of AI-enabled ball retrieving robots
+
+
 ## Project Timeline 📅
 
 - First Code Release: February 20, 2025
@@ -89,12 +104,12 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## Support 💪
 
-- Repository: [https://github.com/chilumbam/jenne-fit](https://github.com/chilumbam/jenne-fit)
+- Repository: [https://github.com/Heysalad/jenne-fit](https://github.com/heysalad/jenne-fit)
 - Email: peter@heysalad.io
 
 If you find this project helpful, consider buying us a coffee!
 
-<a href="https://www.buymeacoffee.com/jennefit" target="_blank">
+<a href="https://www.buymeacoffee.com/heysalsd" target="_blank">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jennefit&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" width="200"/>
 </a>
 
