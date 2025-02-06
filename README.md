@@ -4,7 +4,12 @@ AI-Powered Tennis Training & Ball Collection System
 
 ## Overview 🌟
 
-Jenne-Fit revolutionizes tennis training by combining cutting-edge AI technology with robotics. Our system provides real-time analysis, automated ball collection, and personalized coaching to enhance your tennis game.
+Jenne-Fit revolutionizes tennis training by combining cutting-edge AI technology with robotics. 
+Our system provides real-time analysis, automated ball collection, and personalized coaching 
+to enhance your tennis game.
+
+> 🚧 **Project Status**: Currently in development. First code release expected in two weeks. 
+This repository currently serves as a roadmap and project planning space.
 
 ## Features 🚀
 
@@ -26,13 +31,13 @@ Jenne-Fit revolutionizes tennis training by combining cutting-edge AI technology
 - Community challenges
 - Progress tracking
 
-## Screenshots 📸
+## Development Preview 📸
 
 ### Dashboard & Training
 ![Player Dashboard](screenshots/Bildschirmfoto%202025-02-06%20um%2003.22.12.png)
 *Main dashboard interface*
 
-![Training Session](screenshots/Bildschirmfoto%202025-02-06%20um%2003.27.27.png)
+![Training Session](screenshots/Bildschirmfoto%202025-02-06%20um%2003.27.57.png)
 *Training session with real-time analysis*
 
 ### Community & Progress
@@ -58,52 +63,17 @@ Jenne-Fit revolutionizes tennis training by combining cutting-edge AI technology
 - ElevenLabs voice synthesis
 - Custom ball collection algorithms
 
-## Installation 📥
+## Project Timeline 📅
 
-```bash
-# Clone the repository
-git clone https://github.com/your-org/jenne-fit.git
-
-# Install dependencies
-cd jenne-fit
-pip install -r requirements.txt
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your settings
-```
-
-## Usage 🎮
-
-### Start Training Session
-```python
-from jennefit import TrainingSession
-
-session = TrainingSession(
-    player_id="player123",
-    difficulty="intermediate",
-    focus_areas=["serve", "backhand"]
-)
-session.start()
-```
-
-### Control Ball Collection Robot
-```python
-from jennefit import RobotController
-
-robot = RobotController()
-robot.start_collection(
-    court_area="full",
-    collection_pattern="optimal"
-)
-```
-
-## Development Roadmap 📅
+- First Code Release: February 20, 2025
+- Alpha Testing: March 2025
+- Beta Launch: April 2025
 
 See [ROADMAP.md](ROADMAP.md) for detailed development plans and milestones.
 
 ## Contributing 🤝
 
+We welcome contributions! Once the initial codebase is published, you can:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
@@ -119,6 +89,15 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## Support 💪
 
-- Documentation: [docs.jenne-fit.com](https://docs.jenne-fit.com)
-- Issues: GitHub Issues
-- Email: support@jenne-fit.com
+- Repository: [https://github.com/chilumbam/jenne-fit](https://github.com/chilumbam/jenne-fit)
+- Email: peter@heysalad.io
+
+If you find this project helpful, consider buying us a coffee!
+
+<a href="https://www.buymeacoffee.com/jennefit" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jennefit&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" width="200"/>
+</a>
+
+---
+
+🎾 Made with ❤️ by the Jenne-Fit Team
